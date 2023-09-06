@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("/img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+label{
+  color:white;
+}
+.labelNameContactForm{
+  padding-top: 30px;
+}
+
+h1{
+  color: white;
+  padding-left: 280px;
+  padding-top: 5px;
+}
+
+#logo{
+  width: 540px;
+  height: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+h2{
+  color: white; 
+  font-size: 50px;
+}
+
+h3{
+  color: white;
+  font-size: 35px;
+}
+
+hr{  
+  display: block; 
+  border: 0; 
+  border-top: solid white;
+  margin: 3px;
+}
+
+#mainContent{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+
+p{
+  font-size: 30px;
+  color: white;
+}
+
+#info{
+  margin-top: 9px;
+}
+
+.description{
+  font-size: 38px;
+}
